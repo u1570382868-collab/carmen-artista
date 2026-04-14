@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/carmen-artista.html" },
+    { "source": "/(.*)", "destination": "/carmen-artista.html" }
+  ]
+}
